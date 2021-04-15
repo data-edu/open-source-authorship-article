@@ -1,0 +1,5 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\includegraphics[width=8.5in]{framework-diagram} \caption{ }\label{fig:unnamed-chunk-1}
+\end{figure*}
